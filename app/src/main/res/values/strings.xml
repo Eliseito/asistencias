@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">asistencia</string>
+    <string name="et1">Ingrese Usuario</string>
+    <string name="et2">Ingrese CLave</string>
+    <string name="bt">ACEPTAR</string>
+    <string name="btn_reg">Registrar</string>
+    <string name="et_rcod">Codigo</string>
+    <string name="et_rnom">Nombre</string>
+    <string name="et_rap">Apellido</string>
+    <string name="et_rdni">DNI</string>
+    <string name="et_rdire">Direccion</string>
+    <string name="et_rtele">Telefono</string>
+    <string name="btn_asis">Registrar Asistencia</string>
+    <string name="btn_buscar">BUSCAR</string>
+    <string name="et_acod">Codigo de Asistencia</string>
+    <string name="et_afec">Fecha</string>
+    <string name="et_ahe">Hora de Entrada</string>
+    <string name="et_ahs">Hora de Salida</string>
+    <string name="et_aob">OBSERVACIONES:</string>
+</resources>
